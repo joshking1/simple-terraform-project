@@ -22,7 +22,7 @@ Requirements for this Demo
 
 Specifically, in this Demo, terraform is installed on a window laptop.
 
-Command to install terraform on a window
+Command to install terraform (Windows)
 
 •	choco install terraform
 
