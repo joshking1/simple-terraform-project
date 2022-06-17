@@ -2,7 +2,7 @@
 
 This is a demo project on how to prepare terraform environment to provision infrastructure from a server located on-premises.
 
-In this demo, three configuration files will be available.
+In this demo, two configuration files written in the Hashicorp Configuration Language (HCL). 
 
 Provider.tf contains the terraform code for the provider, which in this case is the AWS.
 
